@@ -26,7 +26,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private static final String TAG = MainActivity.class.getSimpleName();
 
     private TextView mTextView;
+    // TODO remove mentioned user from auto completion list
     private MultiAutoCompleteTextView mMultiAutoCompText;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
