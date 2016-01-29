@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Message Parser</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="hipchatters">
+        <item>"@Chris"</item>
+        <item>"@Garret"</item>
+        <item>"@Pete"</item>
+        <item>"@Zuhaib"</item>
+        <item>"@Ian"</item>
+        <item>"@Will"</item>
+        <item>"@Doug"</item>
+        <item>"@Jeff"</item>
+        <item>"@Matt"</item>
+        <item>"@Don"</item>
+        <item>"@Samuel"</item>
+        <item>"@Bob"</item>
+        <item>"@Mary"</item>
+        <item>"@Ben"</item>
+        <item>"@Elena"</item>
+        <item>"@John"</item>
+        <item>"@Rich"</item>
+        <item>"@Jeison"</item>
+        <item>"@David"</item>
+        <item>"@Steve"</item>
+        <item>"@Clifton"</item>
+        <item>"@Sean"</item>
+        <item>"@Michael"</item>
+        <item>"@Jonathan"</item>
+        <item>"@Thomas"</item>
+        <item>"@Joel"</item>
+        <item>"@Moosa"</item>
+        <item>"@Evan"</item>
+        <item>"@Sabrina"</item>
+        <item>"@Seth"</item>
+        <item>"@Ahmad"</item>
+        <item>"@Hanis"</item>
+        <item>"@Matt"</item>
+        <item>"@Loren"</item>
+        <item>"@Wesley"</item>
+        <item>"@Jason"</item>
+        <item>"@Edwin"</item>
+        <item>"@Josh"</item>
+        <item>"@Chris"</item>
+        <item>"@David"</item>
+        <item>"@Jason_Hammons"</item>
+        <item>"@Jason_Poe"</item>
+        <item>"@Ramiro"</item>
+        <item>"@Kyle"</item>
+        <item>"@Joonho"</item>
+    </string-array>
+</resources>
